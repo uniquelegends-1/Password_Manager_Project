@@ -1,0 +1,28 @@
+{
+  "format": "pulse-shield-app-manifest-v1",
+  "version": 1,
+  "generated_at": "2026-11-24 18:49:00 UTC",
+  "file_count": 19,
+  "files": {
+    "app.py": "5d5fc56df3a268cc8c8aec4f1aac9d869ea2811e8d6fb65e218b94578cef9981",
+    "dialogs.py": "3867f5e785c83b9a112d8d6ea88b5aa5b82b2ab2ca7c04d521d00463e5374442",
+    "requirements.txt": "57f24db336f08aee8648265c1e432d775e2303e98f95cb9f3474ac8f2d2f2bcd",
+    "shield_core/__init__.py": "6ee368d96da3f7a45bf72a70d8da56539928556f849503c8bf4a8ced1460d0b7",
+    "shield_core/adaptive_security.py": "561fe96f0bf7836d13114de0ad3145c329cbdc77c857bb9dcecc16cbe2856d86",
+    "shield_core/app_integrity.py": "ce6844cd896a2fd49bd3e3d0a5aed9a531dbc487d8d3171e08f915a7b06841b9",
+    "shield_core/audit_log.py": "3dca0e41ebd40b43fae65b15628aa31c89e7597a60a8c496c0520c01d4eba27f",
+    "shield_core/contracts.py": "c8084abc16fc0287602a608213ea35aa05bbb657c459cab52239bd832e3bc895",
+    "shield_core/e2ee.py": "23a265e9b71845225447be0699127c0c92460a21895d4daf927b857ea6aedec0",
+    "shield_core/google_sync.py": "bfe47d518c21398207a3a3f154a222a6c993eb914c902dbfb462e58cf29c526a",
+    "shield_core/governance_ops.py": "5ba61b72c155531da0357d991f322b24894c8a1d5759b820763cf851a38f5f9c",
+    "shield_core/identity_access.py": "48e1f9750def3b15e173c4c898feb51f8a6e8392527a99ca7c008784b5d7ad92",
+    "shield_core/key_management.py": "945bd2b6a0203f1017d7913882b93693ef0288a7b17e51f93c74d2302122898f",
+    "shield_core/mfa.py": "f1878b3fcf2ba3736d440cc86cd6c2880b50d67756e9bc2f0fd2523cca452bc2",
+    "shield_core/password_gen.py": "75d0aaa082f66482c05d9aeb318b07f852c776cb2d0e8e82d95ea2fd85824225",
+    "shield_core/recovery_backup.py": "49b674293f7e2c6b57f46363839525296c4d4288b986efac415525bdb3cb6291",
+    "shield_core/security_audit.py": "9c1442facea7c02638b86769b9c54cdd448e1944a0fae22ddb29e2757e50c305",
+    "shield_core/vault_engine.py": "5d3968c83d4b26f5c5c8c70999db94d4166209e5b4a079168455b5c88be8b150",
+    "vault.py": "206b41ed0d83d41a6ebea35f4f807a8eb0d790a5be6bf6f36ad25985537e6db3"
+  },
+  "manifest_sha256": "d79d615baec89d796dec5b7196e4a8dd2b64c570d17d312e895162010d4da8c0"
+}
